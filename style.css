@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&family=Playfair+Display&family=Poppins&family=Rowdies&display=swap');
+.container {
+    text-align: left;
+    backface-visibility: visible;
+    background-position: 0%;
+    background-image: -webkit-gradient();
+    background-color: rgb(199, 221, 223);
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+    
+}
+
